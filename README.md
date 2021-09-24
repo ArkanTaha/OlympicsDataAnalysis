@@ -3,8 +3,8 @@ The Olympics Data Analysis Using Python; this code helps to analyze and visualiz
 
 # 120 Years of Olympic History: Athletes events, and Results
 Content; The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). 
-The columns are:
-ID - Unique number for each athlete
+The columns are:\n
+ID - Unique number for each athlete\n
 Name - Athlete's name
 Sex - M or F
 Age - Integer
