@@ -38,4 +38,4 @@ Medal - Gold, Silver, Bronze, or NA
 Downloaded from: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 # Acknowledgement
-Some parts of this code have been inspired from Simplilearn Tutorial.
+Some parts of this code have been inspired from 'Simplilearn' Tutorial.
